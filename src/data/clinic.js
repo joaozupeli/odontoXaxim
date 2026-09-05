@@ -175,7 +175,7 @@ export const team = [
     name: 'Dra. Priscila',
     role: 'Cirurgiã-dentista',
     tag: 'Atendimento de bairro',
-    category: 'admin',
+    category: 'clinical',
     photo: null,
     bio: 'Atendimento acolhedor no Xaxim, com ênfase em prevenção e acompanhamento familiar.',
     formation: 'CRO-PR · Odontologia',
