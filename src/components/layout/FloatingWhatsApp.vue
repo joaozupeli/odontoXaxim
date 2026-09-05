@@ -53,7 +53,7 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
   padding: 0.7rem 1.1rem;
   border-radius: 999px;
   border: 1px solid var(--line-strong);
-  background: rgba(8, 16, 14, 0.9);
+  background: rgba(255, 255, 255, 0.92);
   backdrop-filter: blur(10px);
   color: var(--paper);
   opacity: 0;
